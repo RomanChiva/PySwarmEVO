@@ -29,6 +29,8 @@ time_speed = 0.05 # Length of simulation time step in seconds (Looks best at 0.0
 
 While running, the simulation should look like this: 
 
+![PySwarm](https://user-images.githubusercontent.com/57629929/99413282-e7716900-28f5-11eb-9661-7cd370ab87b2.png)
 
-
-
+- **Green**: Moving
+- **Orange**: Adjusting position
+- **Red**: Still
