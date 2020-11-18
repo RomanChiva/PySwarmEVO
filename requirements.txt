@@ -1,0 +1,9 @@
+
+# Requirements for pyswarm. -> pip3 install -r requirements.txt
+
+
+pygame
+simpy
+numpy
+scipy
+pandas
