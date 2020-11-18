@@ -20,7 +20,7 @@ time_speed = 0.05 # Length of simulation time step in seconds (Looks best at 0.0
 
 #Display settings---------------------------------
 
-(width, height) = (1500, 1050)
+(width, height) = (750, 525)
 screen = pygame.display.set_mode((width, height))
 pygame.display.set_caption("PySwarm")
 
